@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://gitee.com/cao_ziqiang/img/raw/master/20210725184247.jpeg"/>
+<img src="https://gitee.com/cao_ziqiang/img/raw/master/20210725184247.jpeg">
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NullPointerC)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointerC)](https://github.com/anuraghazra/github-readme-stats)
 [![NullPointerC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NullPointerC&theme=tokyonight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NullPointerC&theme=tokyonight&show_icons=true">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham">
 </a>
 <hr/>
 <p>🔭I am a sophomore in the school of computer information engineering of Jiangxi Normal University, majoring in data science and big data technology.</p>
