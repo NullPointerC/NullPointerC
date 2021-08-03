@@ -20,13 +20,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointerC)](https://github.com/anuraghazra/github-readme-stats)
 [![NullPointerC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NullPointerC&theme=tokyonight&show_icons=true">
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham">
-</a>
+<div>
+<img style="height:350px;width:550px" src="https://github-readme-stats.vercel.app/api?username=NullPointerC&theme=tokyonight&show_icons=true">
+<img style="height:350px;width:550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham">
+</div>
 <hr/>
 <p>🔭I am a sophomore in the school of computer information engineering of Jiangxi Normal University, majoring in data science and big data technology.</p>
 <p>🌱My goal is to become an excellent web full stack development engineer</p>
