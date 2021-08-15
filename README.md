@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 <div>
 <img style="height:350px;width:550px" src="https://github-readme-stats.vercel.app/api?username=NullPointerC&theme=tokyonight&show_icons=true">
-<img style="height:350px;width:550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham">
+<!--<img style="height:350px;width:550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham">-->
 </div>
 <hr/>
 <p>🔭I am a sophomore in the school of computer information engineering of Jiangxi Normal University, majoring in data science and big data technology.</p>
