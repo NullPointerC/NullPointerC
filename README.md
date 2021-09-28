@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--<img style="height:350px;width:550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=NullPointerC&show_icons=true&count_private=true&theme=gotham">-->
 </div>
 <hr/>
-<p>🔭I am a sophomore in the school of computer information engineering of Jiangxi Normal University, majoring in data science and big data technology.</p>
+<p>🔭I am a junior in the school of computer information engineering of Jiangxi Normal University, majoring in data science and big data technology.</p>
 <p>🌱My goal is to become an excellent web full stack development engineer</p>
 <p>👯I am good at <img src="https://img.shields.io/badge/-linux-blue">, <img src="https://img.shields.io/badge/-Java-blue">, <img src="https://img.shields.io/badge/-mysql-blue">... and have a certain understanding of <img src="https://img.shields.io/badge/-HTML-blueviolet">, <img src="https://img.shields.io/badge/-CSS-blueviolet">, <img src ="https://img.shields.io/badge/-JavaScript-blueviolet">, <img src="https://img.shields.io/badge/-Python-blueviolet">, <img src="https://img.shields.io/badge/-PHP-blueviolet">, <img src="https://img.shields.io/badge/-C++-blueviolet">,etc</p>
 <p>💬Writing at <a href="https://www.codenote.xyz" rel="nofollow"> Here </a> </p>
