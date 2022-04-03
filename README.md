@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://gitee.com/cao_ziqiang/img/raw/master/20210725184247.jpeg">
+<img src="https://static.codenote.xyz/img/202204032255847.png">
+<!--<img src="https://gitee.com/cao_ziqiang/img/raw/master/20210725184247.jpeg">-->
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NullPointerC)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointerC)](https://github.com/anuraghazra/github-readme-stats)
