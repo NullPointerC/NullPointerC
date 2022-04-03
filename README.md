@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 <p>📫I am a continuous learner. Love algorithm, web and web programming, back end and all kinds of computer technology. Like to study the basic problems and mathematical problems that make people headache, interested in all art forms.</p>
 <p>😄I hope I can learn all my life in the 0 / 1 world of computer and create interesting things,nerve lose myself, always confident!</p>
 <p>⚡At present, I am in charge of back-end development and leading Homyit studio,looking forward to climbing higher mountains!</p>
+<p>🌹I'm looking for a job, if you can offer a suitable position, please contact me</p>
 
