@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm NullPointerC,Welcome to my github page!
-
+![](https://komarev.com/ghpvc/?username=NullPointerC)
 <!--
 **NullPointerC/NullPointerC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
