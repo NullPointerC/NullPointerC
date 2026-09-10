@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm NullPointerC,Welcome to my github page!
 ![来访人数](https://komarev.com/ghpvc/?username=NullPointerC)
-![个人统计](https://github-readme-stats.vercel.app/api?username=NullPointerC&show_icons=true&theme=radical)
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointerC&layout=compact&theme=radical)
 <!--
 **NullPointerC/NullPointerC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
